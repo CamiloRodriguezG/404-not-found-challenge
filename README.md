@@ -45,5 +45,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 <!-- - Website [your-website.com](https://{your-web-site-link})-->
-- GitHub [@your-username](https://{github.com/CamiloRodriguezG})
-- Twitter [@your-twitter](https://{twitter.com/Camilo13078226})
+- GitHub [CamiloRodriguezG](https://{github.com/CamiloRodriguezG})
+- Twitter [Camilo](https://{twitter.com/Camilo13078226})
