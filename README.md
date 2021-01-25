@@ -13,7 +13,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/CamiloRodriguezG/404-not-found-challenge/blob/main/screenshoot.png)
+![Preview](https://github.com/CamiloRodriguezG/404-not-found-challenge/blob/main/screenshoot.png)
 
 - You can see the page here: https://friendly-lumiere-58b3f3.netlify.app
 - I never made a 404 error page, so this project was cool to make, i really enjoyed making it.
